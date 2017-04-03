@@ -1,0 +1,25 @@
+.red{
+	color:red;
+}
+.blue{
+	color: blue;
+}
+.green{
+	color:green; 
+}
+.center{
+	text-align: center;
+}
+.orange{
+	color: orange;
+}
+.styledFont{
+	color: green;
+}
+.font{
+	font-family: "Helvetica", sans-serif;
+}
+
+#styledImage{
+	border: 6px double orange
+}
